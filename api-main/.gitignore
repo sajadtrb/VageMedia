@@ -1,0 +1,6 @@
+DB/*
+Middleware/__pycache__/*
+Routes/__pycache__/*
+Models/__pycache__/*
+__pycache__/*
+__pycache__/
